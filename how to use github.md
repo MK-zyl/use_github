@@ -16,7 +16,19 @@
 
 ![3](E:\github\use_github\2.png)
 
+- [x] *__注意:  标号②处一定一定一定要命名，不然不能汇总，不能push__*
+
+
+
 ![4](E:\github\use_github\3.png)
+
+
+
+
+
+
+
+
 
 ### 4.或者直接push，新建仓库
 
